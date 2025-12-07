@@ -9,8 +9,8 @@
 ZenBot is an autonomous robotic system that creates **Zen garden patterns**.  
 Our system combines intuitive UI design, computer vision, and robot inference to allow anyone to create a traditional Japanese Zen garden through a robot.
 
-![ZenBot places a rock.](./image_zenbot_arm.png)
-![ZenBot's UI](./image_zenbot_ui.png)
+![ZenBot places a rock.](./assets_for_doc/image_zenbot_arm.png)
+![ZenBot's UI](./assets_for_doc/image_zenbot_ui.png)
 
 ---
 
@@ -59,7 +59,7 @@ Before grasping an object, the teleoperator performed deliberate sweeping motion
 These procedures significantly improved the robustness and reliability of object handling in our dataset.
 
 
-![ZenBot Teleopration](./image_zenbot_teleoperation.png)
+![ZenBot Teleopration](./assets_for_doc/image_zenbot_teleoperation.png)
 
 ---
 
