@@ -97,7 +97,7 @@ This design choice is intentional: the SmolVLA model we used for training is rel
 ## Additional Links
 
 - Link to a demo video
-  - [ZenBot places a rock](https://youtube.com/shorts/2LpQgoojOZM?si=JQuTWASMso2PRlKe)
+  - [ZenBot Demo — Rock Placement](https://youtube.com/shorts/2LpQgoojOZM?si=JQuTWASMso2PRlKe)
 - URL of your dataset in Hugging Face
   - [Rock Placement Dataset](https://huggingface.co/datasets/wmeddie/zenbot_place_rock3)
   - [Raking Motion Dataset](https://huggingface.co/datasets/wmeddie/zenbot_rake8)
