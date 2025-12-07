@@ -64,7 +64,7 @@ These procedures significantly improved the robustness and reliability of object
 ---
 
 #### Training
-- Using the teleoperated trajectories we collected, we trained SmolVLA for our Zen garden manipulation tasks.
+Using the teleoperated trajectories we collected, we trained SmolVLA for our Zen garden manipulation tasks.
 
 ---
 
@@ -97,6 +97,7 @@ This design choice is intentional: the SmolVLA model we used for training is rel
 ## Additional Links
 
 - Link to a demo video
+  - [ZenBot places a rock](https://youtube.com/shorts/2LpQgoojOZM?si=JQuTWASMso2PRlKe)
 - URL of your dataset in Hugging Face
 - URL of your model in Hugging Face
 
