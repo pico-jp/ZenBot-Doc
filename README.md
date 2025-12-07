@@ -99,7 +99,11 @@ This design choice is intentional: the SmolVLA model we used for training is rel
 - Link to a demo video
   - [ZenBot places a rock](https://youtube.com/shorts/2LpQgoojOZM?si=JQuTWASMso2PRlKe)
 - URL of your dataset in Hugging Face
+  - [Rock Placement Dataset](https://huggingface.co/datasets/wmeddie/zenbot_place_rock3)
+  - [Raking Motion Dataset](https://huggingface.co/datasets/wmeddie/zenbot_rake8)
 - URL of your model in Hugging Face
+  - [Rock Placement Policy Model](https://huggingface.co/wmeddie/smolvla_place_rock3_from_base)
+  - [Raking Policy Model](https://huggingface.co/wmeddie/smolvla_rake8_from_base)
 
 ---
 
@@ -107,4 +111,5 @@ This design choice is intentional: the SmolVLA model we used for training is rel
 
 This repository follows the provided directory structure.  
 Please place your training code and inference scripts inside:
+
 
